@@ -1,0 +1,2 @@
+rootProject.name = "Object Detection in Image"
+include ':app'
